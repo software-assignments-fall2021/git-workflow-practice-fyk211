@@ -1,3 +1,6 @@
 # Git Practice
-1. https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/moving-beyond-agile-to-become-a-software-innovator
-2. But many of these businesses have run into a ceiling where incremental gains are minimal. The same Developer Velocity research, for example, showed that while third-quartile companies in terms of overall software-development performance scored 41 percent higher on agile practices than fourth-quartile companies, the differences between companies in the first and second quartiles dropped to less than 20 percent. In other words, once a business hits a certain level of excellence, improvements to how teams work in agile alone drive diminishing returns.
+1.[Agile DevOps](https://www.toolbox.com/tech/devops/articles/why-agile-devops-is-now-the-default-standard-for-software-development/)
+
+It might be interesting to someone who wants to know the current trends of Agile Development and DevOps, and how companies are combining these two as the new development approach.
+ 
+2. It makes no sense to replace the DevOps methodology with Agile at a time when the former is undergoing continuous refinement to attune to the needs of different organizations. This is why DevOps experts advocate the use of Agile and DevOps processes in tandem to enable developers to get the best out of both approaches. 
